@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/kenneth/Projects/udemy/cpp_concurrency/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10   -I/home/kenneth/Projects/udemy/cpp_concurrency/cmake/my_math/include -I/home/kenneth/Projects/udemy/cpp_concurrency/cmake/my_print/include  -g   -o CMakeFiles/calculator.dir/main.cpp.o -c /home/kenneth/Projects/udemy/cpp_concurrency/cmake/main.cpp",
+  "file": "/home/kenneth/Projects/udemy/cpp_concurrency/cmake/main.cpp"
+},
+{
+  "directory": "/home/kenneth/Projects/udemy/cpp_concurrency/build/my_math",
+  "command": "/bin/x86_64-linux-gnu-g++-10   -I/home/kenneth/Projects/udemy/cpp_concurrency/cmake/my_math/include  -g   -o CMakeFiles/my_math.dir/src/addition.cpp.o -c /home/kenneth/Projects/udemy/cpp_concurrency/cmake/my_math/src/addition.cpp",
+  "file": "/home/kenneth/Projects/udemy/cpp_concurrency/cmake/my_math/src/addition.cpp"
+},
+{
+  "directory": "/home/kenneth/Projects/udemy/cpp_concurrency/build/my_math",
+  "command": "/bin/x86_64-linux-gnu-g++-10   -I/home/kenneth/Projects/udemy/cpp_concurrency/cmake/my_math/include  -g   -o CMakeFiles/my_math.dir/src/division.cpp.o -c /home/kenneth/Projects/udemy/cpp_concurrency/cmake/my_math/src/division.cpp",
+  "file": "/home/kenneth/Projects/udemy/cpp_concurrency/cmake/my_math/src/division.cpp"
+},
+{
+  "directory": "/home/kenneth/Projects/udemy/cpp_concurrency/build/my_print",
+  "command": "/bin/x86_64-linux-gnu-g++-10   -I/home/kenneth/Projects/udemy/cpp_concurrency/cmake/my_print/include  -g   -o CMakeFiles/my_print.dir/src/print_result.cpp.o -c /home/kenneth/Projects/udemy/cpp_concurrency/cmake/my_print/src/print_result.cpp",
+  "file": "/home/kenneth/Projects/udemy/cpp_concurrency/cmake/my_print/src/print_result.cpp"
+}
+]

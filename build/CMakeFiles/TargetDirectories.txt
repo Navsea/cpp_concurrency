@@ -1,0 +1,9 @@
+/home/kenneth/Projects/udemy/cpp_concurrency/build/CMakeFiles/rebuild_cache.dir
+/home/kenneth/Projects/udemy/cpp_concurrency/build/CMakeFiles/edit_cache.dir
+/home/kenneth/Projects/udemy/cpp_concurrency/build/CMakeFiles/calculator.dir
+/home/kenneth/Projects/udemy/cpp_concurrency/build/my_math/CMakeFiles/rebuild_cache.dir
+/home/kenneth/Projects/udemy/cpp_concurrency/build/my_math/CMakeFiles/edit_cache.dir
+/home/kenneth/Projects/udemy/cpp_concurrency/build/my_math/CMakeFiles/my_math.dir
+/home/kenneth/Projects/udemy/cpp_concurrency/build/my_print/CMakeFiles/rebuild_cache.dir
+/home/kenneth/Projects/udemy/cpp_concurrency/build/my_print/CMakeFiles/edit_cache.dir
+/home/kenneth/Projects/udemy/cpp_concurrency/build/my_print/CMakeFiles/my_print.dir
